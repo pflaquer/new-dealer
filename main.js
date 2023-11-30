@@ -43,7 +43,7 @@ const navBar = ()=>{
             <a class="nav-link" href="#contact">Contact Us</a>
           </li>
            <li class="nav-item">
-            <a class="nav-link btn btn-primary" style="font-style: italic" href="tel"><i class="fa-solid fa-phone"></i></a>
+            <a class="nav-link btn btn-outline-danger" style="font-style: italic" href="tel"><i class="fa-solid fa-phone"></i> Call Us</a>
           </li>
         </ul>
         
