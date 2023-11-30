@@ -118,14 +118,13 @@ const card = (img,makeandmodel,id,description,miles,type)=>{
 const filterbar = ()=>{
   
  return `
-  <center>
+  
   <div class="filterbar">
-  <div><h1><i class="fa-solid fa-car"></i></h1></div>
-    <div><h1><i class="fa-solid fa-car"></i></h1></div>
-    <div><h1><i class="fa-solid fa-car"></i></h1></div>
-    <div><h1><i class="fa-solid fa-car"></i></h1></div>
-</div>
-</center>
+  <div><h3><i class="fa-solid fa-car"></i><p>All</h3></div>
+    <div><h3><i class="fa-solid fa-car"></i><p>SUV</h3></div>
+    <div><h3><i class="fa-solid fa-car"></i><p>Sedan</h3></div>
+   <div><h3><i class="fa-solid fa-car"></i><p>Coupe</h3></div>
+   </div>
   
   `
 }
