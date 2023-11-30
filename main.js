@@ -188,15 +188,15 @@ ${filterbar()}
 
 ${card("https://car-dealership-omega.vercel.app/assets/car-16-c9c1bce3.jpg", "Jeep Trailhawk SRT",192,"Excellent Condition",28374,'SUV')}
 
-${card("https://car-dealership-omega.vercel.app/assets/car-16-c9c1bce3.jpg", "Jeep Trailhawk SRT",192,"Excellent Condition",28374,'SUV')}
+${card("https://images.autotrader.com/hn/c/79a147202ad54df0b7f8f858d6a68a5a.jpg", "Audi A4",483,"Excellent, Fast!",33374,'Sedan')}
 
-${card("https://car-dealership-omega.vercel.app/assets/car-16-c9c1bce3.jpg", "Jeep Trailhawk SRT",192,"Excellent Condition",28374,'SUV')}
+${card("https://www.westcoastexoticcars.com/imagetag/766/main/l/Used-2021-Porsche-911-Turbo-S-1622651333.jpg", "Porsche 911",194,"Excellent Car",22384,'Coupe')}
 
-${card("https://car-dealership-omega.vercel.app/assets/car-16-c9c1bce3.jpg", "Jeep Trailhawk SRT",192,"Excellent Condition",28374,'SUV')}
+${card("https://www.thegablessportscars.com/imagetag/139/main/l/Used-2018-Porsche-Macan-GTS.jpg", "Porsche Macan",194,"Beautiful Car, Great Condition",88374,'SUV')}
 
-${card("https://car-dealership-omega.vercel.app/assets/car-16-c9c1bce3.jpg", "Jeep Trailhawk SRT",192,"Excellent Condition",28374,'SUV')}
+${card("https://images.carstory.com/7264506648851152376/1/t/690x-", "Honda Accord",195,"Good Car, Economic",22374,'Sedan')}
 
-${card("https://car-dealership-omega.vercel.app/assets/car-16-c9c1bce3.jpg", "Jeep Trailhawk SRT",192,"Excellent Condition",28374,'SUV')}
+${card("https://www.thegablessportscars.com/imagetag/110/3/l/Used-2019-Tesla-Model-3-Performance.jpg", "Tesla Model 3",196,"Excellent Condition, Electric",11374,'Sedan')}
 
 
 </div> 
