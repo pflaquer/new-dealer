@@ -134,7 +134,7 @@ const main = ()=>{
   return `
   
   <main class="layout-main" id="main">
-<div class="container-fluid bg-primary bg-gradient" style="height:75px;">
+<div class="container-fluid bg-primary bg-gradient" style="height:100px;">
 <div class="row gx-5">
 <div class="col-4 text-center bg-primary bg-gradient float-start">
 
