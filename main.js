@@ -37,10 +37,10 @@ const navBar = ()=>{
             <a class="nav-link" href="#main">Used Autos</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link ">About Us</a>
+            <a class="nav-link" href="#about">About Us</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link d">Contact Us</a>
+            <a class="nav-link d" href="#contact">Contact Us</a>
           </li>
         </ul>
         
