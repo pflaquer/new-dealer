@@ -261,7 +261,7 @@ const footer=()=>{
                             <div class="signup_form">                           
                                 <form action="#" class="subscribe">
                                     <input type="text" class="subscribe__input" placeholder="Enter Email Address">
-                                    <button type="button" class="subscribe__btn"><i class="fas fa-paper-plane"></i></button>
+                                    <button type="button" class="subscribe__btn" onclick="alert('Thank You For Subscribing!')><i class="fas fa-paper-plane"></i></button>
                                 </form>
                             </div>
                         </div>
