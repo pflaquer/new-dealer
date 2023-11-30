@@ -9,11 +9,11 @@ const navBar = ()=>{
       <a class="nav-link" style="color:white;font-weight:400;" href="tel:"><i class="bi bi-geo-alt-fill"></i>15028 Hwy 99</li>
      
      <ul class="navbar-nav sm-icons">
-     <a class="nav-link" href="tel:2065555555"><i class="bi bi-envelope"></i> </a></li>
+     <a class="nav-link" href="mailto:"><i class="bi bi-envelope"></i> </a></li>
      <li><a class="nav-link" href="tel:2065555555"><i class="bi bi-phone"></i></a></li>
-        <li><a class="nav-link" href="#"><i class="bi bi-facebook"></i></a></li>
-        <li><a class="nav-link" href="#"><i class="bi bi-instagram"></i></a></li>
-        <li><a class="nav-link" href="#"><i class="bi bi-twitter"></i></a></li>
+        <li><a class="nav-link" href="www.facebook.com"><i class="bi bi-facebook"></i></a></li>
+        <li><a class="nav-link" href="www.instagram.com"><i class="bi bi-instagram"></i></a></li>
+        <li><a class="nav-link" href="www.twitter.com"><i class="bi bi-twitter"></i></a></li>
         
       </ul>
       
