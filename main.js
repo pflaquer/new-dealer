@@ -43,7 +43,7 @@ const navBar = ()=>{
             <a class="nav-link" href="#contact">Contact Us</a>
           </li>
            <li class="nav-item">
-            <a class="nav-link btn btn-warning" href="tel">1-800-AUTORECON</a>
+            <a class="nav-link btn btn-primary" href="tel"><i class="fa-solid fa-phone"></i> Call Now</a>
           </li>
         </ul>
         
