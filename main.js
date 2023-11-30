@@ -43,7 +43,7 @@ const navBar = ()=>{
             <a class="nav-link" href="#contact">Contact Us</a>
           </li>
            <li class="nav-item">
-            <a class="nav-link btn btn-warning-outline" href="#login">Login</a>
+            <a class="nav-link btn btn-outline-warning" href="#login">Login</a>
           </li>
         </ul>
         
