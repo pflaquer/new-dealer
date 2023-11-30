@@ -72,7 +72,7 @@ const hero = ()=>{
         <p  style="color: white;"><i class="bi-check"></i> Quality Used Affordable Vehicles, Serving The Greater Seattle Region</p>
         <div class="mt-5">
           <!-- hover background-color: white; color: black; -->
-          <a href="#inventory" class="btn btn-outline-danger px-5 py-3 text-white mt-3 mt-sm-0" style="border-radius: 30px; background-color: red;">CHECK INVENTORY</a>
+          <a href="#main" class="btn btn-outline-danger px-5 py-3 text-white mt-3 mt-sm-0" style="border-radius: 30px; background-color: red;">CHECK INVENTORY</a>
         </div>
       </div>
     </div>
