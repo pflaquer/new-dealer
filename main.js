@@ -140,7 +140,7 @@ const main = ()=>{
 
 
 </div>
-<div class="col-8 text-center bg-primary bg-gradient">
+<div class="col-md-8 text-center bg-primary bg-gradient">
 
 ${filterbar()}
   <!--
