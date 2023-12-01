@@ -6,7 +6,7 @@ const navBar = ()=>{
 <div>
      <ul class="navbar-nav sm-icons">
      
-      <a class="nav-link" style="color:white;font-weight:400;" href="tel:"><i class="bi bi-geo-alt-fill"></i>15028 Hwy 99</li>
+      <a class="nav-link" style="color:white;font-weight:400;" href="tel:"><i class="bi bi-geo-alt-fill"></i></li>
      
      <ul class="navbar-nav sm-icons">
      <a class="nav-link" href="mailto:"><i class="bi bi-envelope"></i> </a></li>
